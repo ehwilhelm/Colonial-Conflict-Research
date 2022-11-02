@@ -1,0 +1,35 @@
+% Table created by stargazer v.5.2.3 by Marek Hlavac, Social Policy Institute. E-mail: marek.hlavac at gmail.com
+% Date and time: Mon, Oct 24, 2022 - 1:57:00 PM
+% Requires LaTeX packages: dcolumn 
+\begin{table}[!htbp] \centering 
+  \caption{Results} 
+  \label{} 
+\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{4}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-5} 
+\\[-1.8ex] & \multicolumn{4}{c}{Conflict} \\ 
+\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
+\hline \\[-1.8ex] 
+ Settlement Growth & 0.065^{*} & 0.073^{*} & 0.060 & 0.139^{***} \\ 
+  & (0.037) & (0.040) & (0.052) & (0.030) \\ 
+  & & & & \\ 
+ Initial Settlement Pop &  & 0.014 & -0.004 &  \\ 
+  &  & (0.026) & (0.033) &  \\ 
+  & & & & \\ 
+ Within 20MI of Tribal Settlement &  &  & 3.615^{***} &  \\ 
+  &  &  & (1.096) &  \\ 
+  & & & & \\ 
+ Constant & -2.486^{***} & -2.721^{***} & -3.616^{***} & -2.406^{***} \\ 
+  & (0.559) & (0.729) & (1.074) & (0.156) \\ 
+  & & & & \\ 
+\hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{56} & \multicolumn{1}{c}{56} & \multicolumn{1}{c}{56} & \multicolumn{1}{c}{56} \\ 
+Log Likelihood & \multicolumn{1}{c}{-19.666} & \multicolumn{1}{c}{-19.527} & \multicolumn{1}{c}{-12.803} & \multicolumn{1}{c}{-224.606} \\ 
+Akaike Inf. Crit. & \multicolumn{1}{c}{43.332} & \multicolumn{1}{c}{45.055} & \multicolumn{1}{c}{33.606} & \multicolumn{1}{c}{453.211} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{4}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+\end{table} 
