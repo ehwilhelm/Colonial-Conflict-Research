@@ -1,8 +1,7 @@
-# Research
+# Colonial Conflict Research
 
-This is a repository for my academic research projects.
+This is a repository for my colonial conflict research project. This is for academic research purposes.
 
 Workpapers, code, underlying data sources, and with LaTeX code for my papers are stored here.
-Projects are currently listed as private.
 
-See #Contents file for summary of projects.
+This is currently listed as private.
